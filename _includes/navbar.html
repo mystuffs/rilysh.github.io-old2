@@ -1,0 +1,14 @@
+<div class="navbar">
+    <div class="header-links">
+        <a href="{{ site.url }}{{ site.baseurl }}/">Home</a>
+        {% for x in site.navbar %}
+        {% if x.absolute-link %}
+        {% assign x-url = x.absolute-link %}
+        {% else %}
+        {% assign x-url = site.url | append: site.baseurl | append: "/" | append: x.link %}
+        {% endif %}
+        &nbsp;<a href="{{ x-url }}">{{ x.name }}</a>
+        {% if forloop.last == false %}{% endif %}
+        {% endfor %}
+    </div>
+</div>

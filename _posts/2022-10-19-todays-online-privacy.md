@@ -1,0 +1,32 @@
+---
+layout: post
+title: Today's online privacy
+tags: [public]
+---
+
+## What exactly is Online privacy?
+You may already know about it, as what I'd expect from you, privacy is the ability to keep your personal information safe whether it's a group or your own data. For more info see [here](https://en.wikipedia.org/wiki/Privacy).
+
+## Why do we need to be more private when we already are?
+You actually aren't. You may think that you're safe under those huge tech companies, they're ridiculously collecting your data more preciously from A to Z.
+
+## What do they do with these data?
+Companies like Google, Microsoft, Apple, and many others collect your data by writing some lies on their privacy and policy page. Whether they use it for engaging more people in that ecosystem or "improving" the product, all of these data are being sold to the government to keep records or simply track you. Just because they don't want people to know the truth and whoever tries to spread government dogs will hunt them down. That said when a terrorist attack is planted instead of taking another way to get rid they filter all our data to know if they did actually chat with their slaves so they can take the data and an instant attack. You also can't protest yourself if they catch you for any kind of reason. Because they know what was your online activity and by saying online activity, it isn't limited to companies like I previously said but also ISPs who are partial in the view of most people but do crucial spying on us.
+
+This isn't limited to the government honeypots story, our data is also being used to show us advertisements based on our location, personalization, religion, and much more in this rabbit hole. By showing us advertisements, many companies grow a lot in just a few years, because whatever others say about ads, they actually work and that's the main viewpoint. Remember not all people around the world know about this horrific loop. They just liked some random product, they saw in an advertisement and buy it, and they may not judge the quality of the product. Because they think whatever ads showed is real. You can't really do anything about all these, but can be aware of yourself and others.
+
+## Apple users, those who think they're safe
+At the very beginning, Apple locks you into its ecosystem. You'd never know what's going on besides that. And please, never trust anyone who does "fake" promises, even if for the first time. Apple says, we lockdown our ecosystem to make it more private where the truth is that they lockdown it to keep you off knowing the hidden workflow that they're doing besides the jam. Devices from Apple are extremely costly, and people think that owning an Apple device (for example MacBook) makes them special, and make them separated from the crowd. Well, listen, it doesn't. You own an Apple device, so what? Are you showing your money? So you're one of those who try to fit in with those rich people? Or, do you actually think that Apple device performance is the "best"?
+
+I've to agree with the performance and still, there are few catches. Apple devices are performant because they're heavily optimized for their operating system and the whole software ecosystem. And more importantly, see what's M1 or M2 or even Apple Bionic (for iPhones) does and that's all! Nothing scary about it.
+
+And even reaching here, doesn't end the possibility and brings back to the previous topic about "What do they do with these data?". There are a lot of times happened that *hackers* were able to break BES (Bad Encryption System) and the security these tech companies, not to mention all destructive companies, provide is literally just for a few moments of transparency. And many companies tend to say "We protect your data with a military-grade encryption algorithm (either AES or a mix)" which it may do as it says, but what if there are several gaps that literally make this encryption useless, or aka BES. And that's the part where a *hacker* can gain access and if they do, their main target would be selling your data to others and now they can use it for criminal activities.
+
+## Pitfall of social media
+The largest amount of data is collected through social media. Billions of people use social media every day and it also not surprising it's growing in a horrific way. Believe it or not, social media platforms are just a waste of your important time unless you're a celebrity who always needs attention everywhere, as they don't get in real life. Being a social media addict is easy as eating biscuits, however, if you fall down here you'd not be able to climb back so easily. Social media is just like drugs.
+
+Platforms like Facebook, Instagram, and Twitter are extremely dangerous in our personal life. For example, whenever you upload an image or write a text message that image or text goes to their server and saves it. But do you know or ever wanted to know what happens after?
+This data is being used to track your activity, and whenever you created a profile on these platforms (assume) you've used your real name there. So whatever data you've input there is now public to these advertisers and the company itself. Your name, your home address (through your IP or if there's needed to provide it), your email, and your phone number, are just a few.
+If by any chance these data get leaked you also can get scammed maybe just with a simple mistake, who knows? These data are also being sent to government agencies to track whatever is happening and what you're doing. As a result, there's literally no free speech today, especially on political topics. Either the platform where you've created the account will ban you or the government will suspect your activity. Such kinds of tricks are ridiculous for a free and safe Internet communication place.
+
+Besides, most people stay 24/7 active on social media, more like they just like this virtual world rather than the real world. Did you ever question to yourself, how much time you did waste on these platforms? The more time you waste there, the more money you gave them, by staying active there website, they can show you more ads and thus more profit for them. It also can be referred to as brainwashing. Platforms like Twitter (users) sometimes are extremely toxic. Where you can avoid it, but not always and it reflects your real life too. So my only advice would be don't be addicted, use it wisely!

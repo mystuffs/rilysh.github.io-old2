@@ -1,0 +1,26 @@
+title: Reen's Blog
+author: rilysh
+
+url: "https://rilysh.github.io"
+
+permalink: /:year-:month-:day-:title/
+navbar:
+ - name: "About"
+   link: "about"
+ - name: "RSS"
+   absolute-link: "https://rilysh.github.io/feed.xml"
+ - name: "GitHub"
+   absolute-link: "https://github.com/rilysh"
+
+kramdown:
+  syntax_highlighter: coderay
+  coderay_line_numbers: ''
+
+plugins:
+  - jekyll-feed
+
+webrick:
+  headers:
+    X-Frame-Options: DENY
+    Referrer-Policy: no-referrer
+    X-Content-Type-Options: nosniff
